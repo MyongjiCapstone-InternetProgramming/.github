@@ -1,6 +1,6 @@
 ## 명지대학교 인터넷프로그래밍 팀 프로젝트 👋
 - **Taco APP (타자코딩) : https://languid-syringa-3ea.notion.site/fdafef44119b4b159c4423de3d458210?pvs=4**  
-  React - Spring 기반 코딩 타자연습 커뮤니티 웹사이트
+  React - nodejs 기반 코딩 타자연습 커뮤니티 웹사이트
 
 <!--
 
